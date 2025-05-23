@@ -6,6 +6,7 @@ import java.awt.event.ActionListener;
 import java.io.*;
 
 public class NotDefteri extends JFrame {
+    # burdaki not defteri proje ismi ile aynı olacak 
 
     private final JTextArea textArea;
     private final JFileChooser fileChooser;
